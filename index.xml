@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jay Jie</title>
+    <link>/</link>
+    <description>Recent content on Jay Jie</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Sun, 01 Mar 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Medium Blog</title>
+      <link>/posts/03/2020/medium-blog/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/03/2020/medium-blog/</guid>
+      <description>I post my technical writings on Medium. Check them out here.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>Since a little kid I have always had a penchant towards technology and science. It was not too uncommon seeing me walking around with a full backpack of electronic gadgets, most of which didn’t work and were torn apart in what I call “science experiments”. Don’t confuse me with those spoiled kids who were regularly gifted ton of toys just to have them. Growing up in a traditional Chinese household I had to break ten just to get one new, all expenses paid with red envelopes given to me during Chinese New Year.</description>
+    </item>
+    
+  </channel>
+</rss>
